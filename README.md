@@ -22,9 +22,13 @@ This collection is intended to help users and AI agents quickly find relevant VE
 12. `l` series: API references
 13. `m` series: Blog posts, FAQ, and development notes
 
+## Additional Documentation
+Additional documentation (copied from VERL github repository) is present in the 'docs' folder. There are significant overlap between the documentation from github repository and VERL official documentation website. 
+
 ## Notes
 - For the most up-to-date version of the documentation, refer to the official VERL site.
 
 ## Reference
 
 - Official VERL documentation: [VERL Documentation](https://verl.readthedocs.io/en)
+- Official VERL Repository: [VERL Repository](https://github.com/verl-project/verl)
